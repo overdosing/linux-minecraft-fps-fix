@@ -6,4 +6,4 @@ Launch minecraft, utilizing:
 
 vblank_mode=0 /opt/minecraft-launcher/minecraft-launcher
 
-For an automated process, download linux-minecraft-fps-fix.sh
+For an automated process, download linux-minecraft-fps-fix.sh and launch using the script
